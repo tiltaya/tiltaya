@@ -2,7 +2,7 @@
 
 # 🚀 Sobre mim 
 
-Me chamo Tainá Alves, tenho 30 anos e estudo tecnologia desde os 7. Apaixonada por jogos, gatos e música, no momento estou cursando Análise e Desenvolvimento de Sistemas e buscando uma porta de entrada para a minha carreira dos sonhos como desenvolvedora.
+Me chamo Tainá Alves, tenho 31 anos e estudo tecnologia desde os 7. Apaixonada por jogos, gatos e música, no momento estou cursando Análise e Desenvolvimento de Sistemas e buscando uma porta de entrada para a minha carreira dos sonhos como desenvolvedora.
 
 ## 🔗 Redes sociais
 
