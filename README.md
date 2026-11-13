@@ -29,7 +29,3 @@ Me chamo Tainá Alves, tenho 31 anos e estudo tecnologia desde os 7. Apaixonada 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiltaya&layout=compact&bg_color=000&border_color=7E37FF&title_color=7E37FF&text_color=FFF)
